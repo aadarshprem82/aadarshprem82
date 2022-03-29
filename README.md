@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @Aadarsh Prem
+# - 👋 Hi, I’m Aadarsh Prem
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a New Way of Teaching.
