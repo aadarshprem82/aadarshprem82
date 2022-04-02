@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m Aadarsh Prem
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in good level programming.
+- 🌱 I’m currently learning Java and PHP.
 - 💞️ I’m looking to collaborate on a New Way of Teaching.
 - 📫 You can reach me on mail at "aadarshprem82@gmail.com".
 
